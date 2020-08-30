@@ -1,0 +1,11 @@
+these lines are not separated
+use newlines to separate
+writelines will write more than one string:
+012345
+you still need newline characters:
+0
+1
+2
+3
+4
+5
