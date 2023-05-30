@@ -1,0 +1,5 @@
+https://www.google.com: 200
+https://www.facebook.com: 200
+https://www.github.com: 200
+https://www.linkedin.com: 200
+https://www.twitter.com: 200
