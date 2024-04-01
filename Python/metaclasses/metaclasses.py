@@ -10,7 +10,6 @@ class NoisyMeta(type):
         print(f"{namespace=}")
         return namespace
 
-    @staticmethod
     def __new__(meta, name, bases, attrs):
         print("Entering __new__")
         print(f"{meta=}")
